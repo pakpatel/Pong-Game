@@ -1,0 +1,7 @@
+Parth Patel
+
+
+Changes made to pong include: a larger paddle,quicker ball speed, and changing the keys to 'w' moves paddle up, 's' moves paddle down, and 'q' quits the game.
+
+
+To run call make pong and then ./pong
